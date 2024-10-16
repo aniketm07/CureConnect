@@ -1,0 +1,9 @@
+**/.DS_Store
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+package-lock.json
+.vite/
